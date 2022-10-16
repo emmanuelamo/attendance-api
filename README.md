@@ -1,6 +1,12 @@
-Simple Attendance API
+ <font size=1> Simple Attendance API</font> 
 
-simple attendance program for school
+ <font size="2"> simple attendance program for school </font>
+
+
+
+
+
+
 
 Clone this repository
 
