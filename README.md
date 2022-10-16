@@ -1,6 +1,6 @@
- #Simple Attendance API 
+ # Simple Attendance API 
 
-###simple attendance program for school 
+### simple attendance program for school 
 
 Clone this repository
 
