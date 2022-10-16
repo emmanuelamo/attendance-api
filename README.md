@@ -42,6 +42,7 @@ DELETE - /attendance/id (Delete contact by id)
 
 # note: Fields include
 studentId
+
 firstName
 
 lastName
