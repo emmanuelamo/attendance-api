@@ -1,17 +1,15 @@
- <font size=1> Simple Attendance API</font> 
-
- <font size="2"> simple attendance program for school </font>
+ Simple Attendance API 
 
 
 
 
-
+simple attendance program for school 
 
 
 Clone this repository
 
 
-$ git clone https://github.com/akhmadrizki/attendance-api.git
+$ git clone https://github.com/emmanuelamo/attendance-api.git
 
 
 After clone: cd attendance-api/
